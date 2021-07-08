@@ -1,0 +1,5 @@
+## Interface: 20501
+## Title: FlatBarTexture
+
+libs/LibStub/LibStub.lua
+FlatBarTexture.lua

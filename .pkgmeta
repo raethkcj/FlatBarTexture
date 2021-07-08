@@ -1,0 +1,5 @@
+package-as: FlatBarTexture
+
+externals:
+  libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
